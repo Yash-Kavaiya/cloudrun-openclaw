@@ -1,4 +1,0 @@
-# Add your project dependencies here
-# Example:
-# boto3>=1.28.0
-# requests>=2.31.0

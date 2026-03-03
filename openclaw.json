@@ -1,0 +1,15 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "/home/node/.openclaw/workspace",
+      "model": {
+        "primary": "google/gemini-2.5-pro"
+      }
+    }
+  },
+  "gateway": {
+    "controlUi": {
+      "allowedOrigins": ["*"]
+    }
+  }
+}
